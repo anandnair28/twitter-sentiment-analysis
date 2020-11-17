@@ -3,3 +3,6 @@
 - Learn pandas functions like dropping, deleting, manipulating data
 - What does iloc do?
 - Functions in seaborn
+- Functions in scikit learn
+- Functions in nltk
+- Why Naive Bayes

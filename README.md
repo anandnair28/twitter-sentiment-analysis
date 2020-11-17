@@ -8,3 +8,13 @@ Here we are building an NLP model which analyses tweets and returns if a tweet h
 > - Positive Tweet: "Good morning, people! What a wonderful day!"
 >
 > - Negative Tweet: "I hate what the current President is doing to our country!" - negative tweet
+
+Packages Required
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- wordcloud
+- nltk - Natural Language Toolkit
+- scikit learn
